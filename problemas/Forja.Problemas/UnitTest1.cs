@@ -1,4 +1,4 @@
-﻿namespace Forja.Core.Tests;
+﻿namespace Forja.Problemas;
 
 public class UnitTest1
 {
